@@ -150,7 +150,7 @@ www.homeaid-service.com
 ## 🛠 기술 스택
 ### 🧩 Backend
 ![Java](https://img.shields.io/badge/Java-17-007396?logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7+-6DB33F?logo=spring-boot)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.+-6DB33F?logo=spring-boot)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-JWT-6DB33F?logo=spring-security)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-ORM-6DB33F)
 ![OAuth2](https://img.shields.io/badge/OAuth2-Google-4285F4?logo=google)
